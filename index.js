@@ -20,4 +20,4 @@ if (vitoriaEDerrota < 10 ) {
 } if (vitoriaEDerrota >= 101) {
     rank = "Imortal"
 }
-console.log("O herói tem o saldo de vitórias de" + vitoria " e está no rank " + rank)
+console.log("O herói tem o saldo de vitórias de" + vitoria + " e está no rank " + rank)
